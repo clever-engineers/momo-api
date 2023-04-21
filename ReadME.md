@@ -29,9 +29,9 @@ npm install momo-api
 ```
 ## Usage
 
-To use Momo API in your project you frist have to create a Api User , ApiKey and require the product you want
-We use Express.js for this tutorial but feel free to use what ever framework please you 
-also our product for this tutorial is Collection
+To use Momo API in your project you frist have to create an API User, APIKey and require the product you want
+We use Express.js for this tutorial but feel free to use what ever framework please you can
+also use our product for this tutorial in Collection.
 
 Import the required modules from express and momo-api.
    ```javascript
